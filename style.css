@@ -12,8 +12,8 @@ html,body{
 #main{
     height: 100%;
     width: 100%;
-    background-color: red;
-    background-image: url(bg\ image.png);
+/*     background-color: red; */
+    background-image: url(./bg\ image.png);
     background-position: center;
     background-size: cover;
 }
